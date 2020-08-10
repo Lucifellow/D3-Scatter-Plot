@@ -1,0 +1,29 @@
+.dot{
+    fill: orangered;
+    stroke:black;
+}
+
+#legend{
+    stroke: black;
+    stroke-width: 1.3px;
+}
+
+h1{
+    font-family: "Open Sans";
+    text-align: center;
+    margin-top: 1em;
+}
+
+#tooltip{
+    position: absolute;
+    padding:1em;
+    margin-left: 22em;
+}
+
+#y-axis-label{
+    stroke:black
+}
+
+#x-axis-label{
+    stroke:black;
+}
